@@ -3,6 +3,7 @@
  * @brief Implementation of the QMA6100P sensor driver.
  */
 #include "QMA6100P.h"
+#include "delay.h"
 
 /**
  * @brief Get the unique ID of the QMA6100P sensor.
